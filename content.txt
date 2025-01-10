@@ -1,0 +1,88 @@
+Nguyen Hoang Dien
+Research Intern in AIML, Backend Developer Intern
+Can Tho City, Viet Nam
+
+0944779743 | nguyenhoangdien1x(@gmail.com
+
+.OBJECTIVE
+With a passi rificial ¡ i
+¡th a passion for artificial intelligence and a strong foundation in computer science, I aspire to join a
+
+Ban, ng where nh: apply what I°ve learned to solve real-world problems. Í am always
+TOW, aiming to Í Engi
+
+II XWB/Nÿ GÌ g ecome a skilled AI Engineer.
+
+Can Tho University ¡ b
+
+CoInpule? Science Sfudent ch: “Tấn Ty
+
+TECHNICAL, SKILLS
+Programming Language: Python, C/C++, C#, Java
+Eramework : Vue, .Net, TensorFlow, PyTorch, YOLO
+Database Management System: MySQL, SQLServer, MogoDB
+
+Other:
+e Basic Linux usage skills
+PROFESSIONAL EXPERIENCE
+Project: Human resource management system (3 members) 01/10/2024 — 15/11/2024
+e. Source: hftps:⁄/øithub.com/Hoang-Dien-IT/HRM_ System Winform.gịt
+©Description: This is a human resource management application developed on the WinForms
+platform. The application supports functions such as employee management, department
+management, timekeeping, payroll, and other operations to enhance the efficiency of human
+
+TeSOUrce manaøement in businesses.
+e. Technologies: Front- end: Winfom Back - end: C# Đatabase: SQLServer
+ø.. Responsibilifies: Develop and manage the following ñmctions: department management, salary
+and database building.
+
+statistics, posiilon management, salary calculation,
+15/02/2024 - 13/05/2024
+
+Project: Famous Soccer Player Identification Website (1 members)
+SoUFC€ : hftps://github.com/Hoang-Dien-LT/Webmin-identifies-football-players.git
+
+on: This project is a web based application designed to identify and manage information
+dentification, data management and details
+
+°
+e..Descripti
+about football players. It provides features for player Ì
+about famous players.
+ø Technologies: Tool: Python, Flask
+Jlect dafa, process image data, build and train models, evaluate and test
+
+e_ Responsibiliies: Co
+models, and design user interfaces usirig, Flask.
+25/10/2023 - 25/11/2024
+
+Projeet: Rice Classification on Rice Dataset (2 members)
+
+Souree : hftps://øithub.com/Hoang-Dien-LU /Rice2024_identifieation.git
+plieation for classifying rice prains into categories with high
+
+d ñle uploads, offering predietions and probability scores for
+
+°
+Descripfion: A machine learning äp
+
+accuraey. It supports manual input an
+
+cach class.
+Technologies: T00]: Python, Flask
+website (1 member$) 20/09/2024 - 22/11/2024
+
+oang-Dien-I1/B2113322 _ QuanLLySach.pit
+
+helps manage books, DOrrOWerS, and transactIons.
+le lOans, and manage returns efficiently.
+Daftabase: Mogo)P
+
+°
+Project: Book lending manapement
+se Source: https:⁄/eithub,con/H
+
+e Descripfion: A library managcmen( system that
+The application allows users to tracK books, 1ssu
+echnologies: Front~ end: Vẽ Back - end: NodeJS
+

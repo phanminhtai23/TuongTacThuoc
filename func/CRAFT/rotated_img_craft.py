@@ -73,9 +73,10 @@ current_directory = os.path.dirname(os.path.abspath(__file__))
 # Định nghĩa các biến trực tiếp trong mã nguồn
 trained_model = current_directory + '/craft_mlt_25k.pth'
 test_folder = 'images'
+img_save_folder = 'images'
 refiner_model = 'weights/craft_refiner_CTW1500.pth'
-is_save_mask = True
-is_save_boxes = True
+is_save_mask = False
+is_save_boxes = False
 show_time_process = True
 
 text_threshold = 0.7
@@ -91,7 +92,6 @@ refine = False
 
 """ For test images in a folder """
 
-image_list, _, _ = file_utils.get_files(test_folder)
 result_folder = './func/CRAFT/result_img/'
 if not os.path.isdir(result_folder):
     os.mkdir(result_folder)
@@ -209,17 +209,17 @@ def rotate_image(image, angle):
     return rotated
 
 
-def load_model_CRAFT():
+def load_model_CRAFT(Craft_model_path):
     # load net
     net = CRAFT()
     t_load_cuda = time.time()
     # print('Loading weights from checkpoint (' + trained_model + ')')
     if use_cuda:
-        net.load_state_dict(copyStateDict(torch.load(trained_model)))
+        net.load_state_dict(copyStateDict(torch.load(Craft_model_path)))
         print("Load CAFT model sucessfully in", time.time() - t_load_cuda)
     else:
         net.load_state_dict(copyStateDict(
-            torch.load(trained_model, map_location='cpu')))
+            torch.load(Craft_model_path, map_location='cpu')))
         print("Load CRAFT model sucessfully in", time.time() - t_load_cuda)
 
     if use_cuda:
@@ -243,7 +243,7 @@ def draw_box_on_img(box, img):
     return img
 
 
-def rotate_image_equal_craft(pil_image, image_path, model):
+def rotate_image_equal_craft(pil_image, image_path, model, save_result_img=False, result_folder = result_folder):
     t0 = time.time()
     print("Running CRAFT model...")
     model.eval()
@@ -310,9 +310,12 @@ def rotate_image_equal_craft(pil_image, image_path, model):
     if show_time_process:
         t1 = time.time() - t0
         print("Craft done in: {:0.3f}".format(t1))
-        
-    
+       
     rotated_pil_image = Image.fromarray(cv2.cvtColor(rotated_image, cv2.COLOR_BGR2RGB))
+    if save_result_img:
+        cv2.imwrite(result_folder + "result_img_with_craft.jpg", rotated_image)
+        print("Rotated image saved to", result_folder)
+    
     return rotated_pil_image
 
 # if __name__ == '__main__':

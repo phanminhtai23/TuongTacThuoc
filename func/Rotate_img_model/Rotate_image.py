@@ -5,6 +5,7 @@ import os
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 import time
+from PIL import Image
 
 # Load mô hình đã huấn luyện
 def load_trained_model(model):
@@ -36,11 +37,17 @@ def predict_and_correct_orientation(model, pil_img):
             print(f"Ảnh đã xoay")
             t1 = time.time() - t0
             print("Done in: {:.2f}".format(t1))
-            return img_rotated
+            # pil_image = Image.fromarray(
+            #     img_rotated)
+            orientated_pil_image = Image.fromarray(
+                cv2.cvtColor(img_rotated, cv2.COLOR_BGR2RGB))
+            return orientated_pil_image
+            # return img_rotated
         else:
             print("Done in: {:.2f}".format(t1))
             print(f"Không thể đọc ảnh")
-
+    else:
+        return pil_img
 # # Hàm chính để thực thi
 # def main():
 #     model = load_trained_model("orientation_model.h5")
