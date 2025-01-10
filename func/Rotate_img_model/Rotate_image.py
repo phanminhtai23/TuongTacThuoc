@@ -6,6 +6,10 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 import time
 from PIL import Image
+import numpy as np
+
+import tensorflow
+print(tensorflow.__version__)
 
 # Load mô hình đã huấn luyện
 def load_trained_model(model):
@@ -17,7 +21,10 @@ def predict_and_correct_orientation(model, pil_img):
     print("Running CNN model...")
     # Load và tiền xử lý ảnh
     img = pil_img.resize((224, 224))
+    img = img.convert('RGB')
+    # img = pil_img
     # img = image.load_img(img_path, target_size=(224, 224))
+    # img_array = np.array(img)
     img_array = image.img_to_array(img)
     img_array = np.expand_dims(img_array, axis=0)  # Thêm batch dimension
     img_array /= 255.0  # Chuẩn hóa dữ liệu
@@ -48,16 +55,20 @@ def predict_and_correct_orientation(model, pil_img):
             print(f"Không thể đọc ảnh")
     else:
         return pil_img
-# # Hàm chính để thực thi
-# def main():
-#     model = load_trained_model("orientation_model.h5")
-#     test_image_path = "images/test_model_2.jpg"# Thay bằng đường dẫn ảnh của bạn
-#     result_dir = "result"
-#     os.makedirs(result_dir, exist_ok=True)  # Tạo thư mục nếu chưa có
+# Hàm chính để thực thi
+def main():
+    model = load_trained_model("./func/Rotate_img_model/orientation_model.h5")
+    # Thay bằng đường dẫn ảnh của bạn
+    test_image_path = r"C:\\Users\\MINH TAI\Desktop\\page_1.jpeg"
+    result_dir = "./func/Rotate_img_model/result"
+    os.makedirs(result_dir, exist_ok=True)  # Tạo thư mục nếu chưa có
 
-#     img_rotated = predict_and_correct_orientation(model, test_image_path)
-#     output_path = os.path.join(result_dir, os.path.basename(test_image_path))  # Đường dẫn lưu ảnh
-#     cv2.imwrite(output_path, img_rotated)
+    PIL_IMG = Image.open(test_image_path)
+    PIL_IMG.show()
+    img_rotated = predict_and_correct_orientation(model, PIL_IMG)
+    output_path = os.path.join(result_dir, os.path.basename(test_image_path))  # Đường dẫn lưu ảnh
+    img_rotated.save(output_path)
+    print(f"Ảnh đã được lưu tại: {output_path}")
 
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()

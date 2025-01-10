@@ -1,4 +1,5 @@
 # KEY API Gemini
+from io import BytesIO
 import google.generativeai as genai
 genai.configure(api_key="AIzaSyBEpar61waSy4B2vus5mJYrUmLUhwTlpsE")
 
@@ -21,7 +22,6 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 import requests
 import io
-
 
 # Get the directory path of the current script
 current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -55,7 +55,7 @@ def preview_img(name, pil_image):
 # CONFIG PATH
 test_img = "D:\Project\AI\OCR\images\cv_nghieng_phai_45.jpg"
 Init_image = Image.open(test_img)
-preview_img("Initial Image", Init_image)
+# preview_img("Initial Image", Init_image)
 
 # YOLO
 Yolo_model_path = current_directory + '/func/SEG_YOLOv11/weights/last.pt'
@@ -82,28 +82,23 @@ def load_model():
 YOLO11_MODEL, CARFT_MODEL, CNN_MODEL, GEMINI_MODEL = load_model()
 
 
+# # Yolo nhận diện tài liệu
+# detected_document_img = YOLO11.detect_document_yolo11(
+#     YOLO11_MODEL, Init_image, showTime=True, isSaveResult=False, resultFolder=Yolo_result_folder)
+# preview_img("detected_document_img", detected_document_img)
 
+# #Craft để xoay ảnh
+# rotated_image = CARFT.rotate_image_equal_craft(
+#     pil_image=detected_document_img, image_path=test_img, model=CARFT_MODEL, save_result_img=True, result_folder=Craft_result_folder)
+# preview_img("Rotated Image", rotated_image)
 
-# response = model.generate_content("Explain how AI works")
-# print(response.text)
+# #CNN để lật ảnh nếu ngược
+# orientatied_img = ROTATE_IMAGE.predict_and_correct_orientation(
+#     CNN_MODEL, rotated_image)
+# preview_img("Orientatied Image", orientatied_img)
 
-# Yolo nhận diện tài liệu
-detected_document_img = YOLO11.detect_document_yolo11(
-    YOLO11_MODEL, Init_image, showTime=True, isSaveResult=False, resultFolder=Yolo_result_folder)
-preview_img("detected_document_img", detected_document_img)
-
-#Craft để xoay ảnh
-rotated_image = CARFT.rotate_image_equal_craft(
-    pil_image=detected_document_img, image_path=test_img, model=CARFT_MODEL, save_result_img=True, result_folder=Craft_result_folder)
-preview_img("Rotated Image", rotated_image)
-
-#CNN để lật ảnh nếu ngược
-orientatied_img = ROTATE_IMAGE.predict_and_correct_orientation(
-    CNN_MODEL, rotated_image)
-preview_img("Orientatied Image", orientatied_img)
-
-# Trích xuất text
-extracted_text = img_to_text.img_to_text(orientatied_img, save=True)
+# # Trích xuất text
+# extracted_text = img_to_text.img_to_text(orientatied_img, save=True)
 
 # API trả về data
 
@@ -113,21 +108,111 @@ extracted_text = img_to_text.img_to_text(orientatied_img, save=True)
 # cv2.destroyAllWindows()
 
 
+history_general = [
+    {"role": "user", "parts": """
+        Đoạn văn bản sau là mô tả của một loại thuốc, hãy trích xuất dữ liệu trong đoạn sau thành dữ liệu json và trích theo các trường như sau và trả về như sau:
+    {
+        TenThuoc(tên đầy đủ của thuốc)
+        DangBaoChe (dạng bào chế của thuốc)
+        CacThanhPhan [
+        {
+        ThanhPhan(thành phần thuốc 1): ,
+        HamLuong (Hàm lượng của thuốc 1): 
+        }, 
+        {
+        ThanhPhan(thành phần thuốc 2): ,
+        HamLuong (Hàm lượng của thuốc 2): 
+        }, 
+        ] (là thành phần của thuốc và hàm lượng, khối lượng hoặc nồng độ của thành phần trong công thức thuốc)
+        CachDongGoi (Cách đóng gói)
+        ChiDinh (chỉ định, dành cho ai)
+        ChongChiDinh (chống chỉ định)
+        CachDung (cách dùng)
+        HanSuDung (hạn sử dụng)
+        TieuChuanChatLuong (tiêu chuẩn chất lượng của thuốc)
+        DieuKienBaoQuan (điều kiện bảo quản của thuốc)
+        KhuyenCao (khuyến cáo hay lưu ý của thuốc)
+        CoSoSanXuatThuoc (là cơ sở sản xuất thuốc chứa object sau) {
+            TenCoSoSanXuatThuoc(Tên cơ sở sản xuất thuốc): ,
+            DiaChiCoSoSanXuatThuoc (Đại chỉ cơ sở sản xuất thuốc): 
+        }
+        TuongTacThuoc (là phần tương tác thuốc) [
+        {
+            ThanhPhanTuongTac (thành phần trong thuốc hiện tại bị tương tác): ,
+            TenThuocTuongTac (tên loại thuốc mà tương tác với thành phần thuốc trên): ,
+            HauQua (hậu quả khi xảy ra khi 2 thành thuốc trên tương tác):
+        },
+        {
+            TenThuocTuongTac (tên loại thuốc mà thuốc hiện tại tương tác): ,
+            HauQua (hậu quả khi xảy ra khi thuốc hiện tại tương tác thuốc này):
+        },
+        ...
+        ]
+    }
+        XuatSuThuoc (Xuất sứ của thuốc)
+        Hãy trả lời lại dữ liệu trên trong cặp \{\} thôi nhé, không tìm thấy trường nào thì để nội dung trường đó là rỗng, sau đây là đoạn văn bản đó:
+     """},
+    {"role": "model", "parts": "ok, tôi sẽ vâng lời !"}
+]
+
 @app.route('/api/image', methods=['POST'])
-def api():
+def get_data_from_images():
+    contents_text = ""
     if request.method == 'POST':
         try:
             # get 
-            data = request.get_json()
-            url_img = data['url_img']
-            image = Image.open(
-                io.BytesIO(requests.get(url_img).content))
+            images = request.files.getlist('images')
             
-            # xử lý image
+            for img in images:
+                # Đọc dữ liệu ảnh từ tệp tin
+                img_bytes = img.read()
+                # Chuyển đổi từ bytes sang PIL image
+                img_bytes = Image.open(BytesIO(img_bytes))
+                
+                # img_bytes.show()
+                
+                # processing image
+                detected_document_img = YOLO11.detect_document_yolo11(
+                    YOLO11_MODEL, img_bytes, showTime=True, isSaveResult=False, resultFolder=Yolo_result_folder)
+
+                #Craft để xoay ảnh
+                rotated_image = CARFT.rotate_image_equal_craft(
+                    pil_image=detected_document_img, image_path=test_img, model=CARFT_MODEL, save_result_img=True, result_folder=Craft_result_folder)
+
+                #CNN để lật ảnh nếu ngược
+                orientatied_img = ROTATE_IMAGE.predict_and_correct_orientation(
+                    CNN_MODEL, rotated_image)
+
+                orientatied_img.show()
+                
+                # Trích xuất text
+                extracted_text = img_to_text.img_to_text(orientatied_img, save=True)
+                contents_text = contents_text + extracted_text
+                # print("extracted_text: ", extracted_text)
+                
             
-            return jsonify({"response": "Error"})
+            GEMINI_MODEL = genai.GenerativeModel("gemini-1.5-flash")
+            chat = GEMINI_MODEL.start_chat(
+                history=history_general
+            )
+            response = chat.send_message(contents_text)
+            # print("contents_text: ", contents_text)
+            # print("ok xuong server, repson của gemini:\n", response.text)
+            return jsonify({"contents": response.text}), 200
         except Exception as e:
             print(f"Error to process image: {e}")
+            return jsonify({"response": "Error"}), 400
+
+
+# @app.route('/api/pdf', methods=['POST'])
+# def get_data_from_pdf():
+#     contents_text = ""
+#     if request.method == 'POST':
+#         try:
+#             # get PDF file
+#             pdf_files = request.files.getlist('pdfs')
+
+#         except Exception as e:
 
 if __name__ == '__main__':
     print("Server is running on http://{0}:{1}".format("localhost", 5000))
