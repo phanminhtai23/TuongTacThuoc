@@ -16,7 +16,9 @@ def load_trained_model(model):
     return load_model(model)
 
 # Hàm dự đoán hướng tài liệu và xoay ảnh nếu cần
-def predict_and_correct_orientation(model, pil_img):
+
+
+def predict_and_correct_orientation(model, pil_img, is_save_result=False, result_folder=None):
     t0 = time.time()
     print("Running CNN model...")
     # Load và tiền xử lý ảnh
@@ -46,8 +48,13 @@ def predict_and_correct_orientation(model, pil_img):
             print("Done in: {:.2f}".format(t1))
             # pil_image = Image.fromarray(
             #     img_rotated)
+            
+            
             orientated_pil_image = Image.fromarray(
                 cv2.cvtColor(img_rotated, cv2.COLOR_BGR2RGB))
+            if is_save_result:
+                orientated_pil_image.save(result_folder + 'CNN_latAnh.jpg')
+                print("Đã lưu ảnh lật: ", result_folder + 'output.jpg')
             return orientated_pil_image
             # return img_rotated
         else:

@@ -75,8 +75,8 @@ trained_model = current_directory + '/craft_mlt_25k.pth'
 test_folder = 'images'
 img_save_folder = 'images'
 refiner_model = 'weights/craft_refiner_CTW1500.pth'
-is_save_mask = False
-is_save_boxes = False
+is_save_mask = True
+is_save_boxes = True
 show_time_process = True
 
 text_threshold = 0.7
@@ -216,11 +216,12 @@ def load_model_CRAFT(Craft_model_path):
     # print('Loading weights from checkpoint (' + trained_model + ')')
     if use_cuda:
         net.load_state_dict(copyStateDict(torch.load(Craft_model_path)))
-        print("Load CAFT model sucessfully in", time.time() - t_load_cuda)
+        # print("Load CAFT model sucessfully in {:3.f}".format(time.time() - t_load_cuda))
     else:
         net.load_state_dict(copyStateDict(
             torch.load(Craft_model_path, map_location='cpu')))
-        print("Load CRAFT model sucessfully in", time.time() - t_load_cuda)
+        # print("Load CAFT model sucessfully in {:3.f}".format(
+        #     time.time() - t_load_cuda))
 
     if use_cuda:
         net = net.cuda()

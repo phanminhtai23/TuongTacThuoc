@@ -88,11 +88,21 @@ def detect_document_yolo11(model, pil_image, showTime=False, isSaveResult=False,
         print("\nDone in: {:.3f}".format(t1))
         
     if isSaveResult:
-        droped_image.save(resultFolder + 'input.jpg')
+        droped_image.save(resultFolder + 'output_yolov11.jpg')
         print("Saved result image to ", resultFolder + 'input.jpg')
     
     return droped_image
 
 
+# img_path = "H:/My Drive/HK2-Nam4/Nien-Luan-Nganh/TuongTacThuoc/func/Dien.jpg"
+# pil_img = Image.open(img_path)
+
+# model_path = "H:/My Drive/HK2-Nam4/Nien-Luan-Nganh/TuongTacThuoc/func/SEG_YOLOv11/weights/last.pt"
+
+# model = load_model_yolo11(model_path)
+
+# result = detect_document_yolo11(model, pil_img)
+
+# result.show()
 # print("Xác suất: ", result.boxes.conf)
 # # print("Tọa độ box: ", result.boxes.xyxy)
