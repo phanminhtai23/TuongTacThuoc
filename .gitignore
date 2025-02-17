@@ -2,3 +2,5 @@ func/Rotate_img_model/orientation_model.h5
 func/CRAFT/craft_mlt_25k.pth
 
 __pycache__/
+*.png
+*.pdf
