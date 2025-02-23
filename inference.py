@@ -67,11 +67,14 @@ Yolo_result_folder = current_directory + '/func/SEG_YOLOv11/results_img/'
 # CRAFT
 Craft_model_path = current_directory + '/func/CRAFT/craft_mlt_25k.pth'
 Craft_result_folder = current_directory + '/func/CRAFT/result_img/'
+
 # CNN
 CNN_model_path = current_directory + '/func/Rotate_img_model/orientation_model.h5'
 CNN_result_folder = current_directory + '/func/Rotate_img_model/result/'
 
 # Load models
+
+
 def load_model():
     t0 = Time.time()
     YOLO11_MODEL = YOLO11.load_model_yolo11(Yolo_model_path)
@@ -110,7 +113,6 @@ YOLO11_MODEL, CARFT_MODEL, CNN_MODEL, GEMINI_MODEL = load_model()
 
 # cv2.waitKey(0)
 # cv2.destroyAllWindows()
-
 
 history_general = [
     {"role": "user", "parts": """
@@ -199,19 +201,19 @@ def get_data_from_images():
                 # processing image
                 detected_document_img = YOLO11.detect_document_yolo11(
                     YOLO11_MODEL, img_bytes, showTime=True, isSaveResult=True, resultFolder=Yolo_result_folder)
-                
+
                 # detected_document_img.show("detected_document_img")
-                
+
                 # Craft để xoay ảnh
                 rotated_image = CARFT.rotate_image_equal_craft(
                     pil_image=detected_document_img, image_path=test_img, model=CARFT_MODEL, save_result_img=True, result_folder=Craft_result_folder)
 
                 # rotated_image.show("Craft để xoay ảnh")
-                
+
                 # CNN để lật ảnh nếu ngược
                 orientatied_img = ROTATE_IMAGE_CNN.predict_and_correct_orientation(
                     CNN_MODEL, rotated_image, is_save_result=True, result_folder=CNN_model_path)
-                
+
                 # orientatied_img.show("CNN để lật ảnh nếu ngược")
 
                 # Trích xuất text
@@ -220,7 +222,7 @@ def get_data_from_images():
                 contents_text = contents_text + extracted_text
 
             # print("contents_text: ", contents_text)
-            
+
             json_data = text_to_json_data(contents_text)
             # print("contents_text: ", contents_text)
             # print("ok xuong server, repson của gemini:\n", response.text)

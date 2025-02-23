@@ -1,0 +1,437 @@
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Acebis__15g.pdf
+Error: (1, 'Image too large: (41268, 29676) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Acebis__1g.pdf
+Error: (1, 'Image too large: (41368, 29676) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Acebis__225g.pdf
+Error: (1, 'Image too large: (41268, 29676) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Acehasan_200.pdf
+Error: finish_reason: RECITATION
+citation_metadata {
+  citation_sources {
+    start_index: 214
+    end_index: 397
+    uri: "https://nhathuocpharmacy.vn/san-pham/acehasan-100mg-hasan-30-goi-giup-lam-loang-dom-trong-benh-viem-phe-quan/"
+  }
+}
+
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Albendazol_400mg.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Alenbe_10_mg.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Amapirid_4mg.pdf
+Error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\MINHTA~1\\AppData\\Local\\Temp\\tess_32zjrndl_input.PNG'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Amariston.pdf
+Error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\MINHTA~1\\AppData\\Local\\Temp\\tess_k9kdrx5s_input.PNG'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Amaryl.pdf
+Error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\MINHTA~1\\AppData\\Local\\Temp\\tess_49d1v0su_input.PNG'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Amfadol_Plus.pdf
+Error: content {
+}
+finish_reason: RECITATION
+citation_metadata {
+  citation_sources {
+    start_index: 216
+    end_index: 497
+    uri: "https://songkhoe.medplus.vn/thuoc-amfadol-plus-lieu-dung-luu-y-huong-dan-su-dung-tac-dung-phu/"
+  }
+  citation_sources {
+    start_index: 517
+    end_index: 683
+    uri: "http://thongtinbenhvien.com/thuoc/khang-viem-giam-dau/amfadol-plus-thuoc-khang-viem-giam-dau.html"
+  }
+  citation_sources {
+    start_index: 591
+    end_index: 800
+    uri: "https://songkhoe.medplus.vn/thuoc-amfadol-plus-lieu-dung-luu-y-huong-dan-su-dung-tac-dung-phu/"
+  }
+}
+
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Aminoplasmal_BBraun_10_E.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Aminoplasmal_BBraun_5_E.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Amoxicillin_trihydrate__Dang_ket_hat_Compacted.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Amsibed_10.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Andonbio.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Antipodox_100.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\An_than_bo_tamF.pdf
+Error: Expecting ',' delimiter: line 90 column 3 (char 3105)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\An_than_bo_tam_1.pdf
+Error: Expecting ',' delimiter: line 82 column 3 (char 4407)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Artemether_nguyen_lieu.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Artesunat_nguyen_lieu.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Arthrivit.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Asentra_50mg.pdf
+Error: content {
+}
+finish_reason: RECITATION
+citation_metadata {
+  citation_sources {
+    start_index: 1095
+    end_index: 1317
+    uri: "https://nhathuoclongchau.com.vn/thuoc/asentra-50mg-krka-4x7-30820.html"
+  }
+  citation_sources {
+    start_index: 1577
+    end_index: 1723
+    uri: "https://nhathuoclongchau.com.vn/thuoc/asentra-50mg-krka-4x7-30820.html"
+  }
+  citation_sources {
+    start_index: 2066
+    end_index: 2404
+    uri: "https://nhathuoclongchau.com.vn/thuoc/asentra-50mg-krka-4x7-30820.html"
+  }
+  citation_sources {
+    start_index: 2668
+    end_index: 2812
+    uri: "https://nhathuoclongchau.com.vn/thuoc/asentra-50mg-krka-4x7-30820.html"
+  }
+  citation_sources {
+    start_index: 5236
+    end_index: 5694
+    uri: "https://nhathuoclongchau.com.vn/thuoc/asentra-50mg-krka-4x7-30820.html"
+  }
+  citation_sources {
+    start_index: 6024
+    end_index: 6189
+    uri: "https://nhathuoclongchau.com.vn/thuoc/asentra-50mg-krka-4x7-30820.html"
+  }
+}
+
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Aspilets_EC.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Asstamid.pdf
+Error: [Errno 22] Invalid argument
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Asstrozol.pdf
+Error: [Errno 22] Invalid argument
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Asthmatin.pdf
+Error: content {
+}
+finish_reason: RECITATION
+citation_metadata {
+  citation_sources {
+    start_index: 215
+    end_index: 525
+    uri: "https://www.pharmacity.vn/thuoc-dieu-tri-hen-phe-quan-man-tinh-meyerlukast-10mg-10-vien-x-10-vihop.html"
+  }
+  citation_sources {
+    start_index: 766
+    end_index: 1048
+    uri: "https://www.pharmacity.vn/thuoc-dieu-tri-hen-phe-quan-man-tinh-meyerlukast-10mg-10-vien-x-10-vihop.html"
+  }
+  citation_sources {
+    start_index: 950
+    end_index: 1113
+    uri: "https://www.nhathuocankhang.com/thuoc-tri-hen-suyen/thuoc-tri-hen-suyen-asthmatin-4mg-hop-30-vien"
+  }
+  citation_sources {
+    start_index: 1390
+    end_index: 1804
+    uri: "https://www.pharmacity.vn/thuoc-dieu-tri-hen-phe-quan-man-tinh-meyerlukast-10mg-10-vien-x-10-vihop.html"
+  }
+}
+
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Aurocefa.pdf
+Error: (1, 'Image too large: (39100, 29102) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Avadol.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Axe_Brand_Red_Flower_Oil_Dau_nong_hong_hoa_hieu_cay_bua.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 2332)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bach_thuoc_phien.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bach_truat_phien.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bai_thach_TH_1.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bao_bao_nhiet_doc_thanh.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 2750)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bar.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bat_vi_hoan_PH.pdf
+Error: Expecting value: line 58 column 3 (char 2108)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bat_vi_Nhat_nhat.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bat_vi_que_phu.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 2200)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Becolitor_10.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Biocalcium.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bivicetyl.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bivikiddy_.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bivinadol_power.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bolycom_Fort.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Boricetam_Caps.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bot_Talc.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bozeman.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bo_huyet_hoat_huyetVA.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 2739)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Bo_phe_chi_khai_lo.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 1773)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\BratorexDexa.pdf
+Error: content {
+}
+finish_reason: RECITATION
+citation_metadata {
+  citation_sources {
+    start_index: 222
+    end_index: 684
+    uri: "https://songkhoe.medplus.vn/thuoc-bratorex-dexa-lieu-dung-luu-y-huong-dan-su-dung-tac-dung-phu/"
+  }
+}
+
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Breathezy_4.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Brigmax.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Calci_clorid.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Calo__P_Dau_tri_bong.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cam_cumf.pdf
+Error: Expecting ',' delimiter: line 50 column 3 (char 3027)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cam_xuyen_huong.pdf
+Error: Expecting ',' delimiter: line 74 column 3 (char 3837)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_dac_Actiso_1.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_dac_Dinh_lang.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_dac_hy_thiem_1.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_dac_ich_mau.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_dac_kim_tien_thao.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_dac_ngai_cuu_1.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_dac_nhan_tran.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_kho_Actiso.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_kho_ich_mau.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_kho_rau_ma.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_kho_rau_meo.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_long_Tam_linh_to.pdf
+Error: Expecting ',' delimiter: line 106 column 3 (char 4045)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_long_thien_vuong_bo_tam_TT.pdf
+Error: Expecting ',' delimiter: line 75 column 1 (char 4329)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_sao_vang_1.pdf
+Error: Expecting ',' delimiter: line 74 column 3 (char 3365)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_tan_kim_dan.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 3866)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_xoa_Hieu_con_cong.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cao_xoa_thap_vang.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cat_Can_che.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cau_dang.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cau_Tich_che.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cebest_2.pdf
+Error: (1, 'Image too large: (41200, 29384) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cebest_3.pdf
+Error: (1, 'Image too large: (41200, 29384) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Ceelin_moi.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Ceftriaxon.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\CefuroB_250.pdf
+Error: 'NoneType' object has no attribute 'group'
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cephalexin_PMP_500_1.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cerelox.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Ceteco_Rhumedol_Fort_650.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Ciel_EC_25.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\CKDIzarbelltan_tab_300mg.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Clarithromycin_250_mg.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Clopidolut.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Comazil.pdf
+Error: Expecting ',' delimiter: line 42 column 3 (char 1916)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Comazil_1.pdf
+Error: Expecting ',' delimiter: line 74 column 3 (char 2425)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Com_Binh_vi.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 3581)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Com_thu_can_thong_lac.pdf
+Error: Expecting ',' delimiter: line 66 column 3 (char 2298)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Con_96.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Con_tuyet_doi.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Con_xoa_bop_da_dung_An_Trieu.pdf
+Error: Expecting ',' delimiter: line 74 column 3 (char 3835)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cot_toai_bo_1.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Coxlec.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\CP.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Crestor.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cuc_hoa_vang.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Cupid_50.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Curosurf.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Dai_trang_hoan.pdf
+Error: Expecting ',' delimiter: line 59 column 3 (char 2432)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Dai_trang_hoan_PH.pdf
+Error: Expecting ',' delimiter: line 91 column 1 (char 3455)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Dai_trang_hoan_PH_1.pdf
+Error: Expecting ',' delimiter: line 82 column 3 (char 3149)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Dang_sam_phien.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Dan_khe_vi_thong.pdf
+Error: Expecting ',' delimiter: line 107 column 3 (char 3446)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Dan_sam_phien_1.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Dao_nhan.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Darius_1.pdf
+Error: Expecting ',' delimiter: line 58 column 5 (char 3180)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Darius_4.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 3161)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Dau_gio_nau_thien_ly.pdf
+Error: Expecting ',' delimiter: line 74 column 3 (char 3535)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Dau_khuynh_diep_long_me.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Da_dayta_trang_PV.pdf
+Error: Expecting ',' delimiter: line 66 column 3 (char 3226)
+_________________________________________________________________________________________________

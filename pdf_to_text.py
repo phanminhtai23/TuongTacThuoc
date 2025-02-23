@@ -38,7 +38,7 @@ def pdf_to_text(file, file_name):
             resized = cv2.resize(sharpened, None, fx=2, fy=2,
                                  interpolation=cv2.INTER_LINEAR)
             # Hiển thị ảnh đã resize với kích thước window hiển thị ảnh thành 500 x 500
-            cv2.imwrite(f"test/pdf/{file_name}{index}.png", resized)
+            # cv2.imwrite(f"test/pdf/{file_name}{index}.png", resized)
             # # CV -> PIL
             # image_pil = Image.fromarray(
             #     cv2.cvtColor(resized, cv2.COLOR_BGR2RGB))
@@ -48,5 +48,5 @@ def pdf_to_text(file, file_name):
             text = pytesseract.image_to_string(
                 resized, lang="vie", config=custom_config)
             extracted_text += f"\n--- {file_name} ---\n{text}"
-        print(f"Extracted text from {file_name} Done.")
+        # print(f"Extracted text from {file_name} Done.")
     return extracted_text
