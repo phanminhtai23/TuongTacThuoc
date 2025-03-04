@@ -435,3 +435,408 @@ ________________________________________________________________________________
 path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc1\Da_dayta_trang_PV.pdf
 Error: Expecting ',' delimiter: line 66 column 3 (char 3226)
 _________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Dexamethason_5.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 3638)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\DHAlenbe_plus_70mg2800IU.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Diaprid_2.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Diaprid_4.pdf
+Error: Expecting ',' delimiter: line 42 column 1 (char 4545)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Dieu_kinh_bo_huyet_rong_kinh_thuy.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Diflucan_IV.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 3198)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Dihydroartemisin_nguyen_lieu.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Doc_hoat_tang_ky_sinh_VT.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Donasore.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Donitine.pdf
+Error: (1, 'Image too large: (41768, 29384) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Duhemos_500.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Dung_dich_tham_phan_mau_dam_dac_HDM_6.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Dung_dich_ve_sinh_Manginovim.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Duong_huyet_an_than.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 4254)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Duong_huyet_thanh_nao.pdf
+Error: Expecting ',' delimiter: line 82 column 3 (char 4168)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Duong_nhan_to.pdf
+Error: Expecting ',' delimiter: line 74 column 3 (char 2746)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Duong_nhan_to_1.pdf
+Error: Expecting ',' delimiter: line 74 column 3 (char 3896)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Duong_Quy_bo_huyet_PH.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Duong_quy_che.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Duong_tam_an_than__HT.pdf
+Error: Expecting ',' delimiter: line 66 column 3 (char 2856)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Efavirenz_Stada_600_mg.pdf
+Error: content {
+}
+finish_reason: RECITATION
+citation_metadata {
+  citation_sources {
+    start_index: 2651
+    end_index: 2846
+    uri: "http://pharmog.com/wp/efavirenz-efavirenz-stada/"
+  }
+  citation_sources {
+    start_index: 3358
+    end_index: 3530
+    uri: "http://pharmog.com/wp/efavirenz-efavirenz-stada/"
+  }
+  citation_sources {
+    start_index: 3753
+    end_index: 4181
+    uri: "http://pharmog.com/wp/efavirenz-efavirenz-stada/"
+  }
+  citation_sources {
+    start_index: 4393
+    end_index: 4743
+    uri: "http://pharmog.com/wp/efavirenz-efavirenz-stada/"
+  }
+  citation_sources {
+    start_index: 4953
+    end_index: 5208
+    uri: "http://pharmog.com/wp/efavirenz-efavirenz-stada/"
+  }
+  citation_sources {
+    start_index: 5899
+    end_index: 6060
+    uri: "http://pharmog.com/wp/efavirenz-efavirenz-stada/"
+  }
+}
+
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Efexor_XR.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Efodyl_2.pdf
+Error: (1, 'Image too large: (29192, 41392) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Efodyl_3.pdf
+Error: (1, 'Image too large: (28960, 41134) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Egilok.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Enamigal_10_mg.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Femoston_Conti.pdf
+Error: content {
+}
+finish_reason: RECITATION
+citation_metadata {
+  citation_sources {
+    start_index: 230
+    end_index: 760
+    uri: "https://nhathuoclongchau.com.vn/thuoc/femoston-conti-1mg5mg-abbott-1x28-18512.html"
+  }
+  citation_sources {
+    start_index: 881
+    end_index: 1005
+    uri: "https://nhathuoclongchau.com.vn/thuoc/femoston-conti-1mg5mg-abbott-1x28-18512.html"
+  }
+  citation_sources {
+    start_index: 1016
+    end_index: 1275
+    uri: "https://nhathuoclongchau.com.vn/thuoc/femoston-conti-1mg5mg-abbott-1x28-18512.html"
+  }
+  citation_sources {
+    start_index: 1279
+    end_index: 1552
+    uri: "https://nhathuoclongchau.com.vn/thuoc/femoston-conti-1mg5mg-abbott-1x28-18512.html"
+  }
+}
+
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Fitobetinf.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Foster.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Fudplasma.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Garlic_Oil.pdf
+Error: Extra data: line 8 column 2 (char 596)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Gaviscon.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Genprid_4.pdf
+Error: Expecting ',' delimiter: line 42 column 3 (char 3065)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Giai_nhiet_tieu_ban_lo.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Glimepiride_Stada_4mg.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Glucose_5_1.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hadugast.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hangitor_40.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hapresval_160.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hapresval_80.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hasanbose_100.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hasatonic.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hemisan_250.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hepagold.pdf
+Error: Expecting ',' delimiter: line 43 column 3 (char 3107)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Herbesser_R100.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hiten_4.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hitop_100mg_Tablets.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hivir_tablets_100mg.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hivuladin.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoai_son.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoai_son_1.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoai_son_2.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoai_son_phien.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoai_son_phien_1.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoai_son_phien_2.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoang_ba.pdf
+Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:142.250.197.74:443: tcp handshaker shutdown
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoai_son.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoang_ba_1.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoang_ba_phien_1.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoang_cam.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoang_lien_phien.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoang_tri_an.pdf
+Error: Expecting ',' delimiter: line 34 column 3 (char 1820)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoan_Dieu_kinh_bo_huyet.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 3084)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoan_sam_nhung__HT.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 3573)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoan_thap_toan_dai_bo.pdf
+Error: Expecting ',' delimiter: line 74 column 3 (char 2793)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoan_tieu_dao_PH.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoat_huyet_duong_nao_TP.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoat_huyet_nhat_nhat.pdf
+Error: Expecting ',' delimiter: line 75 column 3 (char 3194)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoa_da_tai_tao_hoan.pdf
+Error: Expecting ',' delimiter: line 66 column 3 (char 2559)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hoa_da_Thephaco.pdf
+Error: Expecting ',' delimiter: line 74 column 3 (char 3607)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hong_hoa_2.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Huong_lien_vien_hoan_TP.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Huong_Phu.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Huong_phu_che.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Huong_sa_luc_quan.pdf
+Error: (1, 'Image too large: (41034, 28960) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Huong_sa_luc_quan_1.pdf
+Error: Expecting ',' delimiter: line 42 column 3 (char 2103)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Huong_Sa_PH.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 2157)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hutevir.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Huyen_ho_phien.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Huyen_sam_phien.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hydrite.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hydrite_Coconut_Tablet.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Hydrite_Huong_chuoi.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Ich_mau.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Ich_nu_PH.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Incix.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Kali_nhom_sulfat.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Khang_Minh_luc_vi_nang.pdf
+Error: Expecting ',' delimiter: line 74 column 3 (char 3157)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Khuong_hoat_phien_1.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Kien_nhi_to.pdf
+Error: Expecting ',' delimiter: line 58 column 3 (char 3088)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Kien_trang_Hoa_Linh.pdf
+Error: Expecting ',' delimiter: line 98 column 1 (char 4338)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Kiginko.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Kim_ngan_hoa_1.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Kim_ngan_van_ung_1.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Kim_nguyen_van_tho_hoan.pdf
+Error: Expecting ',' delimiter: line 107 column 1 (char 5260)
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Kim_tien_thao_PV.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Kim_tien_thao_PV_1.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Lamivudin_100_ICA.pdf
+Error: (1, 'Image too large: (20710, 42634) Error during processing.')
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Lengaza.pdf
+Error: No JSON found in response
+_________________________________________________________________________________________________
+path: H:\My Drive\HK2-Nam4\Nien-Luan-Nganh\TuongTacThuoc\func\Crawl_Data\Data\Thuoc2\Lipanthyl_200M.pdf
+Error: content {
+}
+finish_reason: RECITATION
+citation_metadata {
+  citation_sources {
+    start_index: 271
+    end_index: 518
+    uri: "https://pharmog.com/wp/fenofibrate/"
+  }
+  citation_sources {
+    start_index: 574
+    end_index: 703
+    uri: "https://pharmog.com/wp/fenofibrate/"
+  }
+  citation_sources {
+    start_index: 608
+    end_index: 760
+    uri: "https://www.pharmacity.vn/lipanthyl-supra-160mg-hop-3-vi-x-10-vien.html"
+  }
+  citation_sources {
+    start_index: 1081
+    end_index: 1487
+    uri: "https://nhathuoclongchau.com.vn/thuoc/lipanthyl-100mg-3232.html"
+  }
+  citation_sources {
+    start_index: 1491
+    end_index: 1714
+    uri: "https://nhathuoclongchau.com.vn/thuoc/lipanthyl-100mg-3232.html"
+  }
+  citation_sources {
+    start_index: 2018
+    end_index: 2163
+    uri: "https://pharmog.com/wp/fenofibrate/"
+  }
+  citation_sources {
+    start_index: 3269
+    end_index: 3417
+    uri: "https://pharmog.com/wp/fenofibrate/"
+  }
+  citation_sources {
+    start_index: 3535
+    end_index: 3689
+    uri: "https://pharmog.com/wp/fenofibrate/"
+  }
+}
+
+_________________________________________________________________________________________________

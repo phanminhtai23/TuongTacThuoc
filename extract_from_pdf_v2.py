@@ -90,7 +90,8 @@ def save_json_data(json_data, json_file_path):
             json.dump([json_data], file, ensure_ascii=False, indent=4)
 
 
-index = 12
+index = 2513
+
 count = 0
 for root, dirs, files in os.walk(pdfs_folder_path):
     for file in files:
